@@ -6,17 +6,16 @@ FlexPipe	KEYWORD1
 attachValves	KEYWORD2
 attachSensors	KEYWORD2
 
-pipes	KEYWORD2
-checkNum	KEYWORD2
+pipesNum	KEYWORD2
 
-toggle	KEYWORD2
-getState	KEYWORD2
-getPressure	KEYWORD2
-
-inflate	KEYWORD2
-deflate	KEYWORD2
 openAll	KEYWORD2
 closeAll	KEYWORD2
+inflate	KEYWORD2
+deflate	KEYWORD2
+
+toggle	KEYWORD2
+state	KEYWORD2
+pressure	KEYWORD2
 
 # Instances (KEYWORD2)
 flex	KEYWORD2

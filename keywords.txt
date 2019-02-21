@@ -1,0 +1,32 @@
+# Datatypes (KEYWORD1)
+FlexActuator	KEYWORD1
+FlexPipe	KEYWORD1
+
+# Methods and functions (KEYWORD2)
+attachValves	KEYWORD2
+attachSensors	KEYWORD2
+
+pipes	KEYWORD2
+checkNum	KEYWORD2
+
+toggle	KEYWORD2
+getState	KEYWORD2
+getPressure	KEYWORD2
+
+inflate	KEYWORD2
+deflate	KEYWORD2
+openAll	KEYWORD2
+closeAll	KEYWORD2
+
+# Instances (KEYWORD2)
+flex	KEYWORD2
+flex1	KEYWORD2
+flex2	KEYWORD2
+flex3	KEYWORD2
+flex4	KEYWORD2
+
+# Constants (LITERAL1)
+FLEX_NUM	LITERAL1
+FLEX_PIPES	LITERAL1
+
+# vim: set noet:
